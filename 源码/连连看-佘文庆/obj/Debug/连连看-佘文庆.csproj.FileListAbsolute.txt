@@ -1,0 +1,30 @@
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\bin\Debug\连连看-佘文庆.exe.config
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\bin\Debug\连连看-佘文庆.exe
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\bin\Debug\连连看-佘文庆.pdb
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看_佘文庆.Form1.resources
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看_佘文庆.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.exe
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.pdb
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看_佘文庆.Form2.resources
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\bin\Debug\Interop.WMPLib.dll
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\bin\Debug\AxInterop.WMPLib.dll
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\Interop.WMPLib.dll
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\AxInterop.WMPLib.dll
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.csprojResolveAssemblyReference.cache
+E:\连连看-佘文庆\连连看-佘文庆\bin\Debug\连连看-佘文庆.exe.config
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\Interop.WMPLib.dll
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\AxInterop.WMPLib.dll
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.csproj.ResolveComReference.cache
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.exe
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.pdb
+E:\连连看-佘文庆\连连看-佘文庆\bin\Debug\连连看-佘文庆.exe
+E:\连连看-佘文庆\连连看-佘文庆\bin\Debug\连连看-佘文庆.pdb
+E:\连连看-佘文庆\连连看-佘文庆\bin\Debug\Interop.WMPLib.dll
+E:\连连看-佘文庆\连连看-佘文庆\bin\Debug\AxInterop.WMPLib.dll
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.csprojResolveAssemblyReference.cache
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看_佘文庆.Form1.resources
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看_佘文庆.Form2.resources
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看_佘文庆.Properties.Resources.resources
+E:\连连看-佘文庆\连连看-佘文庆\obj\Debug\连连看-佘文庆.csproj.GenerateResource.Cache
